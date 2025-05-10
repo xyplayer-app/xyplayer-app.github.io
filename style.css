@@ -168,7 +168,7 @@
 }
 
 .a1 {
-    background-image: url(image/windows-logo.png);
+    background-image:url(windows-logo.png);
     background-repeat: no-repeat;
     background-size: 25px;
     background-position: left;
@@ -176,8 +176,8 @@
     background-position-x: 19px;
 }
 
-.a2 {
-    background-image: url(image/android-logo.png);
+.a2{
+  background-image:url(android-logo.png);
     background-repeat: no-repeat;
     background-size: 25px;
     background-position: left;
